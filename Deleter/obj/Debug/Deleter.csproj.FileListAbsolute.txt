@@ -1,0 +1,6 @@
+c:\users\leanzo\documents\visual studio 2015\Projects\Deleter\Deleter\bin\Debug\Deleter.exe.config
+C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\bin\Debug\Deleter.exe
+C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\bin\Debug\Deleter.pdb
+C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\obj\Debug\Deleter.csprojResolveAssemblyReference.cache
+C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\obj\Debug\Deleter.exe
+C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\obj\Debug\Deleter.pdb
