@@ -3,3 +3,9 @@ C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\bin\Releas
 C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\bin\Release\Deleter.pdb
 C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\obj\Release\Deleter.exe
 C:\Users\LeanZo\Documents\Visual Studio 2015\Projects\Deleter\Deleter\obj\Release\Deleter.pdb
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\bin\Release\Deleter.exe.config
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\obj\Release\Deleter.exe
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\obj\Release\Deleter.pdb
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\bin\Release\Deleter.exe
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\bin\Release\Deleter.pdb
+C:\Users\LeanZo\Documents\GitHub\Deleter\Deleter\obj\Release\Deleter.csprojResolveAssemblyReference.cache
